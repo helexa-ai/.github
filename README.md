@@ -1,3 +1,4 @@
+![helexa.ai](https://repository-images.githubusercontent.com/1110473117/837b31ab-566c-44c0-aa7f-4528ab57f297 "Helexa — The Distributed AI Mesh")
 # 🌐 Helexa — The Distributed AI Mesh
 
 **Helexa** is an open, decentralized AI compute network that connects independent
