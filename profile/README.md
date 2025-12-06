@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/c714d506-c121-48a9-88b9-da5e58aae0f1" />
+<img width="1280" height="640" alt="helexa ai banner" src="https://github.com/user-attachments/assets/c714d506-c121-48a9-88b9-da5e58aae0f1" />
 
 # 🌐 Helexa — The Distributed AI Mesh
 
